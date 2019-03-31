@@ -467,8 +467,8 @@ extras = {
         key: 'footer-inner'
       }, [
         "This page was made by Urbit. Feedback: ", a({
-          href: "mailto:urbit@urbit.org"
-        }, "urbit@urbit.org"), " ", a({
+          href: "mailto:zod@urbit-classic.org"
+        }, "zod@urbit-classic.org"), " ", a({
           href: "https://twitter.com/urbit_"
         }, "@urbit_")
       ])

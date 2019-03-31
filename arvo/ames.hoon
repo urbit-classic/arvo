@@ -142,262 +142,262 @@
     ^-  @uvH  ^-  @
     %+  snag  zar
     ^-  (list @uw)
-    :~  0wN.Kdp5k.p5ncD.4Wsih.bFQFu   ::    0, ~zod, urbit.org
-        0w0                           ::    1, ~nec, Curtis Yarvin
-        0w0                           ::    2, ~bud, Tlon Investor 1
-        0w0                           ::    3, ~wes, Tlon Investor 2
-        0w0                           ::    4, ~sev, Tlon Investor 2
-        0wt.cKYxs.Yb5VZ.boSwm.l0yYc   ::    5, ~per, Tlon Investor 3 
-        0w0                           ::    6, ~sut, Tlon Investor 4
-        0w0                           ::    7, ~let, Tlon Investor 4
-        0w0                           ::    8, ~ful, Tlon Investor 4
-        0w0                           ::    9, ~pen, Tlon Investor 4
-        0w0                           ::   10, ~syt, Tlon Investor 4
-        0w0                           ::   11, ~dur, Tlon Investor 4
-        0w0                           ::   12, ~wep, Sam Putman
-        0w0                           ::   13, ~ser, Tlon Investor 5
-        0w3j.H0sty.jHa3F.JlD26.4LPwV  ::   14, ~wyl, Zimran Ahmed
-        0w3F.QdvV-.toAsR.hvUNk.fHjW6  ::   15, ~sun, Colin Smith 
-        0w0                           ::   16, ~ryp, Tlon Investor 6
-        0w0                           ::   17, ~syx, Tlon Investor 6
-        0w0                           ::   18, ~dyr, Tlon Investor 6
-        0w0                           ::   19, ~nup, Tlon Investor 6
-        0w0                           ::   20, ~heb, Tlon Investor 6
-        0w0                           ::   21, ~peg, Tlon Investor 6
-        0w0                           ::   22, ~lup, Tlon Investor 6
-        0w0                           ::   23, ~dep, Tlon Investor 6
-        0w0                           ::   24, ~dys, Mike Gogulski
-        0w0                           ::   25, ~put, Tlon Investor 7
-        0w0                           ::   26, ~lug, Tlon Investor 8
-        0w0                           ::   27, ~hec, Tlon Investor 8
-        0w0                           ::   28, ~ryt, Tlon Investor 8
-        0w0                           ::   29, ~tyv, Tlon Investor 8
-        0w0                           ::   30, ~syd, Jennifer Kollmer
-        0wp.BgRGJ.kslnv.PLAqb.TRKbr   ::   31, ~nex, Prakhar Goel
-        0w0                           ::   32, ~lun, Tlon Investor 9
-        0w0                           ::   33, ~mep, Tlon Investor 9
-        0w0                           ::   34, ~lut, Tlon Investor 9
-        0w0                           ::   35, ~sep, Tlon Investor 9
-        0w0                           ::   36, ~pes, Jennifer Kollmer
-        0w2J.WSHlR.t5VHN.X8GKE.DB-yz  ::   37, ~del, Kingdon Barrett
-        0w1w.KF-J1.5I63F.khFyv.h0n4J  ::   38, ~sul, John Burnham
-        0w3x.XaJbE.xaOn3.zXbaG.5xUiY  ::   39, ~ped, Jeremy Wall
-        0w2.Mr2Id.SX8xI.MAs-j.5Y-1W   ::   40, ~tem, Tlon Investor 10
-        0w0                           ::   41, ~led, Nick Caruso
-        0w0                           ::   42, ~tul, Susan Yarvin
-        0w0                           ::   43, ~met, Susan Yarvin
-        0w0                           ::   44, ~wen, Susan Yarvin
-        0w0                           ::   45, ~byn, Susan Yarvin 
-        0w0                           ::   46, ~hex, James Torre
-        0w0                           ::   47, ~feb, urbit.org
-        0wK.GoKEY.rMjfn.ZcvFQ.n4BmX   ::   48, ~pyl, Michael Hartl
-        0w0                           ::   49, ~dul, Jennifer Kollmer
-        0w0                           ::   50, ~het, Jennifer Kollmer
-        0w0                           ::   51, ~mev, Herbert Yarvin
-        0w0                           ::   52, ~rut, Herbert Yarvin
-        0w2L.M6-o5.DDTFL.R4sFL.7Zuay  ::   53, ~tyl, Tlon Investor 11
-        0w0                           ::   54, ~wyd, Curtis Yarvin
-        0w0                           ::   55, ~tep, Sibyl Kollmer
-        0w0                           ::   56, ~bes, Sibyl Kollmer
-        0w0                           ::   57, ~dex, Jared Hance 
-        0w0                           ::   58, ~sef, Owen Rescher
-        0w0                           ::   59, ~wyc, Galen Wolfe-Pauly
-        0w0                           ::   60, ~bur, Galen Wolfe-Pauly
-        0w0                           ::   61, ~der, Galen Wolfe-Pauly
-        0w0                           ::   62, ~nep, Galen Wolfe-Pauly
-        0w0                           ::   63, ~pur, Herbert Yarvin
-        0w30.VtXvV.S~xIV.iMCL~.j9zTC  ::   64, ~rys, Charlie Cummings
-        0w0                           ::   65, ~reb, Herbert Yarvin
-        0wp.LslIa.IFSM9.mIp-z.KBIBh   ::   66, ~den, Michael Hartl
-        0w0                           ::   67, ~nut, Henry Yarvin
-        0w0                           ::   68, ~sub, Henry Yarvin
-        0w0                           ::   69, ~pet, Henry Yarvin
-        0w0                           ::   70, ~rul, Henry Yarvin
-        0w0                           ::   71, ~syn, Henry Ault
-        0w0                           ::   72, ~reg, Henry Ault
-        0w0                           ::   73, ~tyd, Henry Ault
-        0w0                           ::   74, ~sup, Henry Ault
-        0w0                           ::   75, ~sem, Michael Livshin
-        0w0                           ::   76, ~wyn, Anton Dyudin
-        0w0                           ::   77, ~rec, Anton Dyudin
-        0w0                           ::   78, ~meg, Anton Dyudin
-        0w2L.tavpW.Lk4R-.elm7E.4KEqZ  ::   79, ~net, Anthony Martinez
-        0w0                           ::   80, ~sec, Curtis Yarvin
-        0w0                           ::   81, ~mul, Curtis Yarvin
-        0w1F.Tqroo.wyq2m.cBaTM.9MbG-  ::   82, ~nym, Max Greer
-        0w0                           ::   83, ~tev, Sibyl Kollmer
-        0w2x.~ldho.Oo7kE.QqNSx.XteFh  ::   84, ~web, Ar Vicco
-        0w0                           ::   85, ~sum, Philip Monk
-        0w0                           ::   86, ~mut, Philip Monk
-        0w0                           ::   87, ~nyx, Philip Monk
-        0w30.UUr19.iBPlD.wfyJD.2CWPv  ::   88, ~rex, Tlon Investor 12
-        0w0                           ::   89, ~teb, Sibyl Kollmer
-        0w0                           ::   90, ~fus, Tlon Corporation
-        0w0                           ::   91, ~hep, urbit.org
-        0w0                           ::   92, ~ben, urbit.org
-        0w0                           ::   93, ~mus, urbit.org
-        0w0                           ::   94, ~wyx, urbit.org
-        0w0                           ::   95, ~sym, urbit.org
-        0w0                           ::   96, ~sel, urbit.org
-        0w0                           ::   97, ~ruc, urbit.org
-        0w0                           ::   98, ~dec, urbit.org
-        0w1L.NQ-5f.ABF9R.kVwVJ.zRfn2  ::   99, ~wex, Pax Dickinson
-        0w0                           ::  100, ~syr, urbit.org
-        0w0                           ::  101, ~wet, urbit.org
-        0w0                           ::  102, ~dyl, urbit.org
-        0w0                           ::  103, ~myn, urbit.org
-        0w0                           ::  104, ~mes, urbit.org
-        0w0                           ::  105, ~det, urbit.org
-        0w0                           ::  106, ~bet, urbit.org
-        0w0                           ::  107, ~bel, urbit.org
-        0w0                           ::  108, ~tux, Tlon Investor 13
-        0w1D.JV9n0.9z~YK.yAWyi.c9~Lu  ::  109, ~tug, Philip Monk
-        0w0                           ::  110, ~myr, urbit.org
-        0w0                           ::  111, ~pel, urbit.org
-        0w0                           ::  112, ~syp, urbit.org
-        0w0                           ::  113, ~ter, urbit.org
-        0w0                           ::  114, ~meb, urbit.org
-        0w0                           ::  115, ~set, urbit.org
-        0w0                           ::  116, ~dut, urbit.org
-        0w0                           ::  117, ~deg, urbit.org
-        0w0                           ::  118, ~tex, urbit.org
-        0w0                           ::  119, ~sur, urbit.org
-        0w0                           ::  120, ~fel, urbit.org
-        0w0                           ::  121, ~tud, urbit.org
-        0w0                           ::  122, ~nux, urbit.org
-        0w0                           ::  123, ~rux, urbit.org
-        0w0                           ::  124, ~ren, urbit.org
-        0w0                           ::  125, ~wyt, urbit.org
-        0w0                           ::  126, ~nub, urbit.org
-        0w0                           ::  127, ~med, urbit.org
-        0w20.GGLXx.aqxaQ.w4Iob.wdmmr  ::  128, ~lyt, Arthur Breitman
-        0w0                           ::  129, ~dus, urbit.org
-        0w0                           ::  130, ~neb, urbit.org
-        0w0                           ::  131, ~rum, urbit.org
-        0w0                           ::  132, ~tyn, urbit.org
-        0w0                           ::  133, ~seg, urbit.org
-        0w0                           ::  134, ~lyx, urbit.org
-        0w0                           ::  135, ~pun, urbit.org
-        0w0                           ::  136, ~res, urbit.org
-        0w0                           ::  137, ~red, Alex Kravets
-        0w3J.15iJA.0pbNk.mZXyh.A~uKb  ::  138, ~fun, Aaron Beckerman
-        0w0                           ::  139, ~rev, urbit.org
-        0w3m.Cqumo.ZC7-e.794A4.Bqhh8  ::  140, ~ref, Matt Brubeck
-        0w0                           ::  141, ~mec, urbit.org
-        0w0                           ::  142, ~ted, urbit.org
-        0w2d.GLlYg.-MwtO.ZCPBE.OqGB9  ::  143, ~rus, Stephen Burnham
-        0w0                           ::  144, ~bex, urbit.org
-        0w0                           ::  145, ~leb, Justin LeBlanc
-        0w0                           ::  146, ~dux, urbit.org
-        0w0                           ::  147, ~ryn, urbit.org
-        0w0                           ::  148, ~num, Tlon
-        0w0                           ::  149, ~pyx, Katherine McFall
-        0w2g.gLmg4.MtrHQ.A5VmH.WPk6G  ::  150, ~ryg, Dan Haffey
-        0w0                           ::  151, ~ryx, Tlon
-        0w0                           ::  152, ~fep, Tlon
-        0w2j.T1u2s.BfXjV.ldOGR.aiZrQ  ::  153, ~tyr, Steve Dee
-        0w0                           ::  154, ~tus, Tlon
-        0w0                           ::  155, ~tyc, Tlon
-        0w0                           ::  156, ~leg, Tlon
-        0w0                           ::  157, ~nem, Tlon
-        0w0                           ::  158, ~fer, Tlon
-        0w0                           ::  159, ~mer, Tlon
-        0w0                           ::  160, ~ten, Tlon
-        0w0                           ::  161, ~lus, Tlon
-        0w0                           ::  162, ~nus, Tlon
-        0w0                           ::  163, ~syl, Tlon
-        0w0                           ::  164, ~tec, Tlon
-        0w0                           ::  165, ~mex, Tlon
-        0w0                           ::  166, ~pub, Tlon
-        0w0                           ::  167, ~rym, Tlon
-        0w0                           ::  168, ~tuc, Tlon
-        0w0                           ::  169, ~fyl, Tlon
-        0w0                           ::  170, ~lep, Tlon
-        0w0                           ::  171, ~deb, Tlon
-        0w0                           ::  172, ~ber, Tlon
-        0w0                           ::  173, ~mug, Tlon
-        0w0                           ::  174, ~hut, Tlon
-        0w0                           ::  175, ~tun, Tlon
-        0w0                           ::  176, ~byl, Tlon
-        0w0                           ::  177, ~sud, Tlon
-        0w0                           ::  178, ~pem, Tlon
-        0w0                           ::  179, ~dev, Tlon
-        0w0                           ::  180, ~lur, Tlon
-        0w0                           ::  181, ~def, Tlon
-        0w0                           ::  182, ~bus, Tlon
-        0w0                           ::  183, ~bep, Tlon
-        0w0                           ::  184, ~run, Tlon
-        0w0                           ::  185, ~mel, Tlon
-        0w0                           ::  186, ~pex, Tlon
-        0w0                           ::  187, ~dyt, Tlon
-        0w0                           ::  188, ~byt, Tlon
-        0w0                           ::  189, ~typ, Tlon
-        0w0                           ::  190, ~lev, Tlon
-        0w0                           ::  191, ~myl, Tlon
-        0w0                           ::  192, ~wed, Tlon
-        0w0                           ::  193, ~duc, Tlon
-        0w0                           ::  194, ~fur, Tlon
-        0w0                           ::  195, ~fex, Tlon
-        0w0                           ::  196, ~nul, Tlon
-        0w0                           ::  197, ~luc, Tlon
-        0w0                           ::  198, ~len, Tlon
-        0w0                           ::  199, ~ner, Tlon
-        0wv.aixe9.7gG2w.7cJiy.i3Mg8   ::  200, ~lex, Michael Hartl
-        0w0                           ::  201, ~rup, Owen Rescher
-        0w0                           ::  202, ~ned, Tlon
-        0w0                           ::  203, ~lec, Tlon
-        0w0                           ::  204, ~ryd, Tlon
-        0w1U.n361n.FC3jj.9cX26.V1Wif  ::  205, ~lyd, Adam Bliss
-        0w0                           ::  206, ~fen, Tlon
-        0w0                           ::  207, ~wel, Tlon
-        0w0                           ::  208, ~nyd, Tlon
-        0w0                           ::  209, ~hus, Tlon
-        0w0                           ::  210, ~rel, Tlon
-        0w0                           ::  211, ~rud, Tlon
-        0w0                           ::  212, ~nes, Tlon
-        0w16.~8NZV.VyMmf.4toMO.pui1R  ::  213, ~hes, Tlon Investor 14
-        0w0                           ::  214, ~fet, Tlon
-        0w0                           ::  215, ~des, Tlon
-        0w0                           ::  216, ~ret, Tlon
-        0w0                           ::  217, ~dun, Tlon
-        0w0                           ::  218, ~ler, Tlon
-        0w10.w0AUz.QVdks.HCNvf.ja~TO  ::  219, ~nyr, Ivan Matosevic
-        0w0                           ::  220, ~seb, Tlon
-        0w0                           ::  221, ~hul, Tlon
-        0w0                           ::  222, ~ryl, Tlon
-        0w0                           ::  223, ~lud, Tlon
-        0w0                           ::  224, ~rem, Tlon
-        0w0                           ::  225, ~lys, Tlon
-        0w3C.YXlEl.pFbYV.9pYWI.d7cla  ::  226, ~fyn, Stephen Burnham
-        0w0                           ::  227, ~wer, Tlon
-        0w0                           ::  228, ~ryc, Tlon
-        0w0                           ::  229, ~sug, Tlon
-        0w0                           ::  230, ~nys, Tlon
-        0w0                           ::  231, ~nyl, Tlon
-        0w0                           ::  232, ~lyn, Tlon
-        0w0                           ::  233, ~dyn, Tlon
-        0w0                           ::  234, ~dem, Tlon
-        0w0                           ::  235, ~lux, Tlon Investor 15
-        0w0                           ::  236, ~fed, Tlon
-        0w0                           ::  237, ~sed, Tlon
-        0w0                           ::  238, ~bec, Tlon
-        0w0                           ::  239, ~mun, Tlon
-        0w0                           ::  240, ~lyr, Tlon
-        0w0                           ::  241, ~tes, Tlon
-        0w0                           ::  242, ~mud, Ian Rowan
-        0w4.yybWD.F1BgE.ynzlF.47neH   ::  243, ~nyt, Byrne Hobart
-        0w0                           ::  244, ~byr, Tlon
-        0w0                           ::  245, ~sen, Tlon
-        0w0                           ::  246, ~weg, Tlon
-        0w28.bRVMq.Oi3tM.zOCNV.j00Yq  ::  247, ~fyr, Anton Dyudin
-        0w0                           ::  248, ~mur, Tlon
-        0w0                           ::  249, ~tel, Tlon
-        0w3D.onYhb.3wvaz.62Ct8.nt3iJ  ::  250, ~rep, Raymond Pasco
-        0w0                           ::  251, ~teg, Tlon
-        0w0                           ::  252, ~pec, Tlon
-        0w0                           ::  253, ~nel, Tlon
-        0w0                           ::  254, ~nev, Tlon
-        0wY.a0HAU.7Lbkf.6V514.OsJBv   ::  255, ~fes, John Burnham
+    :~  0w35.d~vnt.77PJ-.wI25X.VjhiK  ::    0, ~zod, urbit-classic.org
+        0w0                           ::    1, ~nec, reserved
+        0w0                           ::    2, ~bud, reserved
+        0w0                           ::    3, ~wes, reserved
+        0w0                           ::    4, ~sev, reserved
+        0wt.cKYxs.Yb5VZ.boSwm.l0yYc   ::    5, ~per, reserved
+        0w0                           ::    6, ~sut, reserved
+        0w0                           ::    7, ~let, reserved
+        0w0                           ::    8, ~ful, reserved
+        0w0                           ::    9, ~pen, reserved
+        0w0                           ::   10, ~syt, reserved
+        0w0                           ::   11, ~dur, Tlon
+        0w0                           ::   12, ~wep, could be yours!
+        0w0                           ::   13, ~ser, could be yours!
+        0w0                           ::   14, ~wyl, could be yours!
+        0w0                           ::   15, ~sun, could be yours!
+        0w0                           ::   16, ~ryp, could be yours!
+        0w0                           ::   17, ~syx, could be yours!
+        0w0                           ::   18, ~dyr, could be yours!
+        0w0                           ::   19, ~nup, could be yours!
+        0w0                           ::   20, ~heb, could be yours!
+        0w0                           ::   21, ~peg, could be yours!
+        0w0                           ::   22, ~lup, could be yours!
+        0w0                           ::   23, ~dep, could be yours!
+        0w0                           ::   24, ~dys, could be yours!
+        0w0                           ::   25, ~put, could be yours!
+        0w0                           ::   26, ~lug, could be yours!
+        0w0                           ::   27, ~hec, could be yours!
+        0w0                           ::   28, ~ryt, could be yours!
+        0w0                           ::   29, ~tyv, could be yours!
+        0w0                           ::   30, ~syd, could be yours!
+        0w0                           ::   31, ~nex, could be yours!
+        0w0                           ::   32, ~lun, could be yours!
+        0w0                           ::   33, ~mep, could be yours!
+        0w0                           ::   34, ~lut, could be yours!
+        0w0                           ::   35, ~sep, could be yours!
+        0w0                           ::   36, ~pes, could be yours!
+        0w0                           ::   37, ~del, could be yours!
+        0w0                           ::   38, ~sul, could be yours!
+        0w0                           ::   39, ~ped, could be yours!
+        0w0                           ::   40, ~tem, could be yours!
+        0w0                           ::   41, ~led, could be yours!
+        0w0                           ::   42, ~tul, could be yours!
+        0w0                           ::   43, ~met, could be yours!
+        0w0                           ::   44, ~wen, could be yours!
+        0w0                           ::   45, ~byn, could be yours!
+        0w0                           ::   46, ~hex, could be yours!
+        0w0                           ::   47, ~feb, could be yours!
+        0w0                           ::   48, ~pyl, could be yours!
+        0w0                           ::   49, ~dul, could be yours!
+        0w0                           ::   50, ~het, could be yours!
+        0w0                           ::   51, ~mev, could be yours!
+        0w0                           ::   52, ~rut, could be yours!
+        0w0                           ::   53, ~tyl, could be yours!
+        0w0                           ::   54, ~wyd, could be yours!
+        0w0                           ::   55, ~tep, could be yours!
+        0w0                           ::   56, ~bes, could be yours!
+        0w0                           ::   57, ~dex, could be yours!
+        0w0                           ::   58, ~sef, could be yours!
+        0w0                           ::   59, ~wyc, could be yours!
+        0w0                           ::   60, ~bur, could be yours!
+        0w0                           ::   61, ~der, could be yours!
+        0w0                           ::   62, ~nep, could be yours!
+        0w0                           ::   63, ~pur, could be yours!
+        0w0                           ::   64, ~rys, could be yours!
+        0w0                           ::   65, ~reb, could be yours!
+        0w0                           ::   66, ~den, could be yours!
+        0w0                           ::   67, ~nut, could be yours!
+        0w0                           ::   68, ~sub, could be yours!
+        0w0                           ::   69, ~pet, could be yours!
+        0w0                           ::   70, ~rul, could be yours!
+        0w0                           ::   71, ~syn, could be yours!
+        0w0                           ::   72, ~reg, could be yours!
+        0w0                           ::   73, ~tyd, could be yours!
+        0w0                           ::   74, ~sup, could be yours!
+        0w0                           ::   75, ~sem, could be yours!
+        0w0                           ::   76, ~wyn, could be yours!
+        0w0                           ::   77, ~rec, could be yours!
+        0w0                           ::   78, ~meg, could be yours!
+        0w0                           ::   79, ~net, could be yours!
+        0w0                           ::   80, ~sec, could be yours!
+        0w0                           ::   81, ~mul, could be yours!
+        0w0                           ::   82, ~nym, could be yours!
+        0w0                           ::   83, ~tev, could be yours!
+        0w0                           ::   84, ~web, could be yours!
+        0w0                           ::   85, ~sum, could be yours!
+        0w0                           ::   86, ~mut, could be yours!
+        0w0                           ::   87, ~nyx, could be yours!
+        0w0                           ::   88, ~rex, could be yours!
+        0w0                           ::   89, ~teb, could be yours!
+        0w0                           ::   90, ~fus, could be yours!
+        0w0                           ::   91, ~hep, could be yours!
+        0w0                           ::   92, ~ben, could be yours!
+        0w0                           ::   93, ~mus, could be yours!
+        0w0                           ::   94, ~wyx, could be yours!
+        0w0                           ::   95, ~sym, could be yours!
+        0w0                           ::   96, ~sel, could be yours!
+        0w0                           ::   97, ~ruc, could be yours!
+        0w0                           ::   98, ~dec, could be yours!
+        0w0                           ::   99, ~wex, could be yours!
+        0w0                           ::  100, ~syr, could be yours!
+        0w0                           ::  101, ~wet, could be yours!
+        0w0                           ::  102, ~dyl, could be yours!
+        0w0                           ::  103, ~myn, could be yours!
+        0w0                           ::  104, ~mes, could be yours!
+        0w0                           ::  105, ~det, could be yours!
+        0w0                           ::  106, ~bet, could be yours!
+        0w0                           ::  107, ~bel, could be yours!
+        0w0                           ::  108, ~tux, could be yours!
+        0w0                           ::  109, ~tug, could be yours!
+        0w0                           ::  110, ~myr, could be yours!
+        0w0                           ::  111, ~pel, could be yours!
+        0w0                           ::  112, ~syp, could be yours!
+        0w0                           ::  113, ~ter, could be yours!
+        0w0                           ::  114, ~meb, could be yours!
+        0w0                           ::  115, ~set, could be yours!
+        0w0                           ::  116, ~dut, could be yours!
+        0w0                           ::  117, ~deg, could be yours!
+        0w0                           ::  118, ~tex, could be yours!
+        0w0                           ::  119, ~sur, could be yours!
+        0w0                           ::  120, ~fel, could be yours!
+        0w0                           ::  121, ~tud, could be yours!
+        0w0                           ::  122, ~nux, could be yours!
+        0w0                           ::  123, ~rux, could be yours!
+        0w0                           ::  124, ~ren, could be yours!
+        0w0                           ::  125, ~wyt, could be yours!
+        0w0                           ::  126, ~nub, could be yours!
+        0w0                           ::  127, ~med, could be yours!
+        0w0                           ::  128, ~lyt, could be yours!
+        0w0                           ::  129, ~dus, could be yours!
+        0w0                           ::  130, ~neb, could be yours!
+        0w0                           ::  131, ~rum, could be yours!
+        0w0                           ::  132, ~tyn, could be yours!
+        0w0                           ::  133, ~seg, could be yours!
+        0w0                           ::  134, ~lyx, could be yours!
+        0w0                           ::  135, ~pun, could be yours!
+        0w0                           ::  136, ~res, could be yours!
+        0w0                           ::  137, ~red, could be yours!
+        0w2u.yEPp9.GCFjF.fuj~C.apvcT  ::  138, ~fun, anonymous purchaser
+        0w0                           ::  139, ~rev, could be yours!
+        0w0                           ::  140, ~ref, could be yours!
+        0w0                           ::  141, ~mec, could be yours!
+        0w0                           ::  142, ~ted, could be yours!
+        0w0                           ::  143, ~rus, could be yours!
+        0w0                           ::  144, ~bex, could be yours!
+        0w0                           ::  145, ~leb, could be yours!
+        0w0                           ::  146, ~dux, could be yours!
+        0w0                           ::  147, ~ryn, could be yours!
+        0w0                           ::  148, ~num, could be yours!
+        0w0                           ::  149, ~pyx, could be yours!
+        0w0                           ::  150, ~ryg, could be yours!
+        0w0                           ::  151, ~ryx, could be yours!
+        0w0                           ::  152, ~fep, could be yours!
+        0w0                           ::  153, ~tyr, could be yours!
+        0w0                           ::  154, ~tus, could be yours!
+        0w0                           ::  155, ~tyc, could be yours!
+        0w0                           ::  156, ~leg, could be yours!
+        0w0                           ::  157, ~nem, could be yours!
+        0w0                           ::  158, ~fer, could be yours!
+        0w0                           ::  159, ~mer, could be yours!
+        0w0                           ::  160, ~ten, could be yours!
+        0w0                           ::  161, ~lus, could be yours!
+        0w0                           ::  162, ~nus, could be yours!
+        0w0                           ::  163, ~syl, could be yours!
+        0w0                           ::  164, ~tec, could be yours!
+        0w0                           ::  165, ~mex, could be yours!
+        0w0                           ::  166, ~pub, could be yours!
+        0w0                           ::  167, ~rym, could be yours!
+        0w0                           ::  168, ~tuc, could be yours!
+        0w0                           ::  169, ~fyl, could be yours!
+        0w0                           ::  170, ~lep, could be yours!
+        0w0                           ::  171, ~deb, could be yours!
+        0w0                           ::  172, ~ber, could be yours!
+        0w0                           ::  173, ~mug, could be yours!
+        0w0                           ::  174, ~hut, could be yours!
+        0w0                           ::  175, ~tun, could be yours!
+        0w0                           ::  176, ~byl, could be yours!
+        0w0                           ::  177, ~sud, could be yours!
+        0w0                           ::  178, ~pem, could be yours!
+        0w0                           ::  179, ~dev, could be yours!
+        0w0                           ::  180, ~lur, could be yours!
+        0w0                           ::  181, ~def, could be yours!
+        0w0                           ::  182, ~bus, could be yours!
+        0w0                           ::  183, ~bep, could be yours!
+        0w0                           ::  184, ~run, could be yours!
+        0w0                           ::  185, ~mel, could be yours!
+        0w0                           ::  186, ~pex, could be yours!
+        0w0                           ::  187, ~dyt, could be yours!
+        0w0                           ::  188, ~byt, could be yours!
+        0w0                           ::  189, ~typ, could be yours!
+        0w0                           ::  190, ~lev, could be yours!
+        0w0                           ::  191, ~myl, could be yours!
+        0w0                           ::  192, ~wed, could be yours!
+        0w0                           ::  193, ~duc, could be yours!
+        0w0                           ::  194, ~fur, could be yours!
+        0w0                           ::  195, ~fex, could be yours!
+        0w0                           ::  196, ~nul, could be yours!
+        0w0                           ::  197, ~luc, could be yours!
+        0w0                           ::  198, ~len, could be yours!
+        0w0                           ::  199, ~ner, could be yours!
+        0w0                           ::  200, ~lex, could be yours!
+        0w0                           ::  201, ~rup, could be yours!
+        0w0                           ::  202, ~ned, could be yours!
+        0w0                           ::  203, ~lec, could be yours!
+        0w0                           ::  204, ~ryd, could be yours!
+        0w0                           ::  205, ~lyd, could be yours!
+        0w0                           ::  206, ~fen, could be yours!
+        0w0                           ::  207, ~wel, could be yours!
+        0w0                           ::  208, ~nyd, could be yours!
+        0w0                           ::  209, ~hus, could be yours!
+        0w0                           ::  210, ~rel, could be yours!
+        0w0                           ::  211, ~rud, could be yours!
+        0w0                           ::  212, ~nes, could be yours!
+        0w0                           ::  213, ~hes, could be yours!
+        0w0                           ::  214, ~fet, could be yours!
+        0w0                           ::  215, ~des, could be yours!
+        0w0                           ::  216, ~ret, could be yours!
+        0w0                           ::  217, ~dun, could be yours!
+        0w0                           ::  218, ~ler, could be yours!
+        0w0                           ::  219, ~nyr, could be yours!
+        0w0                           ::  220, ~seb, could be yours!
+        0w0                           ::  221, ~hul, could be yours!
+        0w0                           ::  222, ~ryl, could be yours!
+        0w0                           ::  223, ~lud, could be yours!
+        0w0                           ::  224, ~rem, could be yours!
+        0w0                           ::  225, ~lys, could be yours!
+        0w0                           ::  226, ~fyn, could be yours!
+        0w0                           ::  227, ~wer, could be yours!
+        0w0                           ::  228, ~ryc, could be yours!
+        0w0                           ::  229, ~sug, could be yours!
+        0w0                           ::  230, ~nys, could be yours!
+        0w0                           ::  231, ~nyl, could be yours!
+        0w0                           ::  232, ~lyn, could be yours!
+        0w0                           ::  233, ~dyn, could be yours!
+        0w0                           ::  234, ~dem, could be yours!
+        0w0                           ::  235, ~lux, could be yours!
+        0w0                           ::  236, ~fed, could be yours!
+        0w0                           ::  237, ~sed, could be yours!
+        0w0                           ::  238, ~bec, could be yours!
+        0w0                           ::  239, ~mun, could be yours!
+        0w0                           ::  240, ~lyr, could be yours!
+        0w0                           ::  241, ~tes, could be yours!
+        0w0                           ::  242, ~mud, could be yours!
+        0w0                           ::  243, ~nyt, could be yours!
+        0w0                           ::  244, ~byr, could be yours!
+        0w0                           ::  245, ~sen, could be yours!
+        0w0                           ::  246, ~weg, could be yours!
+        0w0                           ::  247, ~fyr, could be yours!
+        0w0                           ::  248, ~mur, could be yours!
+        0w0                           ::  249, ~tel, could be yours!
+        0w0                           ::  250, ~rep, could be yours!
+        0w0                           ::  251, ~teg, could be yours!
+        0w0                           ::  252, ~pec, could be yours!
+        0w0                           ::  253, ~nel, could be yours!
+        0w0                           ::  254, ~nev, could be yours!
+        0w0                           ::  255, ~fes, urbit-classic.org
     ==
   --
   ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
